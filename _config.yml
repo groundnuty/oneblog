@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               'Onedata Blog'
+tagline:             'News form Onedata Space'
+description:         'News form Onedata Space!'
 url:                 http://groundnuty.github.io/oneblog/
 baseurl:             'http://groundnuty.github.io/oneblog/'
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Onedata
+  url:               www.onedata.org
+  email:             onedata@cyfronet.pl
 
 # Custom vars
 version:             1.0.0
